@@ -1,1 +1,2 @@
-# Getting Started with Create React App
+# Generete a Diagram 
+Se puede generar diagramas conceptuales
